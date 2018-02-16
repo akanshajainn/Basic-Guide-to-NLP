@@ -26,5 +26,5 @@ Following are the topics included:
 
 
 
-PS.It is inspired from an article on Analytics Vidhya written by Shivam Bansal. 
+PS. It is inspired from an article on Analytics Vidhya written by Shivam Bansal. 
 Link: https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/#comment-151409
