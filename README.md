@@ -1,5 +1,5 @@
 # Basic Guide to NLP
-This repository contains a Jupyter notebook with sample python codes for basic to major NLP problems faced when dealing with text.
+This repository contains a Jupyter notebook with sample python codes for basic to major NLP problems faced when dealing with text. There's one more repo specifically based on NLTK library for NLP tasks https://github.com/akanshajainn/NLTK-with-Python3
 
 All the codes are successfully runnning in python 3 as of now.
 
